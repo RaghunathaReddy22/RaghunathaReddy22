@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaghunathaReddy22
 - 👀 I’m interested in learning the new difficult things 
-- 🌱 I’m currently learning spring and angular 
+- 🌱 I’m currently learning spring Boot,microservices 
 - 💞️ I’m looking to collaborate on  MNC company 
 - 📫 How to reach me by phno:+919440828027, raghunathareddy2203@gmail.com
 
